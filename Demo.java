@@ -9,6 +9,10 @@ class DemoJava {
         System.out.println("############################");
         System.out.println("This is pushed to Github");
         System.out.println("############################");
+
+        System.out.println("############################");
+        System.out.println("Changed this file for auto trigger");
+        System.out.println("############################");
     }
 
 }
